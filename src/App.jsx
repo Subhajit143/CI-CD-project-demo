@@ -45,7 +45,11 @@ function App() {
         </a>
       </div>
 
-      <h1>Vite + React + CI/CD Test</h1>
+      <h1>🚀 Subha Dev Custom Experimental Feature</h1>
+<p style={{ color: "red" }}>
+  ⚠️ This version is for testing merge conflicts only!
+</p>
+
 
       <div className="card">
         <button onClick={() => setCount((c) => c + 1)}>
