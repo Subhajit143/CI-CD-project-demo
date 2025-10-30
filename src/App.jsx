@@ -45,10 +45,8 @@ function App() {
         </a>
       </div>
 
-      <h1>🚀 Subha Dev Custom Experimental Feature's</h1>
-<p style={{ color: "red" }}>
-  ⚠️ This version is for testing merge conflicts only!
-</p>
+      <h1>🚀 Subha Dev  Experimental Feature's</h1>
+
 
 
       <div className="card">
