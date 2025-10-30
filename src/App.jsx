@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more subhajit subha-dev
+        Click on the Vite and React logos to learn more subhajit subha-dev with ci-cd pipeline 
       </p>
     </>
   )
