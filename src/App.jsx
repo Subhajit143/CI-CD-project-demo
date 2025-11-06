@@ -65,7 +65,7 @@ function App() {
         <p>{message}</p>
 
         <p>
-          Edit <code>src/App.jsx</code> and save to test CI/CD pipeline
+          Edit <code>src/App.jsx</code> and save to CI/CD pipeline
         </p>
       </div>
 
